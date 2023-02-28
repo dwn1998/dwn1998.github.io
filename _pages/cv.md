@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[Resume](http://dwn1998.github.io/_pages/CV-Wanning Ding_PHD.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[](http://dwn1998.github.io/_pages/CV-Wanning Ding_PHD.pdf)
 
