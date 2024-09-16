@@ -9,9 +9,6 @@ redirect_from:
 
 [Resume](http://dwn1998.github.io/_pages/CV-Wanning Ding_PHD.pdf)
 
-以下是你提供的简历内容以Markdown格式呈现：
-
-```markdown
 # Wanning Ding
 
 - **Email**: [wding04@syr.edu](mailto:wding04@syr.edu)
@@ -71,6 +68,3 @@ redirect_from:
 ## Skills
 
 - **Computer Skills**: Frequently used Python, Solidity, Go, C, and C++ Language. Familiar with SQL, Java, Javascript, Linux, Haskell.
-```
-
-你可以将这段Markdown内容复制并粘贴到你的网站的Markdown文件中，以直接在页面上显示你的CV。
