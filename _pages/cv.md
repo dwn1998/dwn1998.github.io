@@ -7,25 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Resume](http://dwn1998.github.io/_pages/CV-Wanning Ding_PHD.pdf)
-
-# Wanning Ding
-
-- **Email**: [wding04@syr.edu](mailto:wding04@syr.edu)
-- **Phone**: +1-315-484-6610
-- **Website**: [https://dwn1998.github.io/](https://dwn1998.github.io/)
-
-## Education
-
-- **Syracuse University (Syracuse, USA)** 08/2022 - Now  
-  Ph.D. of Computer and Information Science and Engineering (CISE)
-
-- **Syracuse University (Syracuse, USA)** 08/2020 - 06/2022  
-  Master of Computer Science
-
-- **East China Normal University (Shanghai, China)** 09/2015 - 07/2019  
-  Bachelor of Engineering in Computer Science and Technology
-
 ## Publications
 
 - W Ding, Y Tang, Y Wang, "Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs", IEEE S&P 2025
