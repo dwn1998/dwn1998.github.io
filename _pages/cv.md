@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+## Publications
 
 - Yibo Wang, Yuzhe Tang*, Kai Li, **Wanning Ding**, Zhihua Yang, "Understanding Ethereum Mempool Security under Asymmetric {DoS} by Symbolized Stateful Fuzzing", USENIX Security 2024
 - Jiaqi Chen, Yibo Wang, Yuxuan Zhou, **Wanning Ding**, Yuzhe Tang*, XiaoFeng Wang*, Kai Li, "Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild", IEEE Euro S&P 2023
